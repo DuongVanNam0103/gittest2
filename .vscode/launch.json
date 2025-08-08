@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/nam/python/dngettest/gittest2",
-      "program": "/home/nam/python/dngettest/gittest2/build/Debug/outDebug",
+      "cwd": "/home/nam/python/dngettest1/gittest2",
+      "program": "/home/nam/python/dngettest1/gittest2/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

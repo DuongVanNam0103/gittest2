@@ -1,5 +1,8 @@
-#include<stdio.h>
-int main(){
-printf("heloo world lan 1");
-return 0;
+
+#include <stdio.h>
+int main()
+{
+    printf("heloo world");
+    printf("nam day\n");
+    return 0;
 }
