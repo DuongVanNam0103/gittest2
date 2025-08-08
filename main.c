@@ -3,6 +3,6 @@
 int main()
 {
     printf("heloo world dn1 day");
-    printf("nam day\n");
+    printf("nam day dam\n");
     return 0;
 }
